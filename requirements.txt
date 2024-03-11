@@ -1,3 +1,5 @@
 streamlit
 pandas
 plost
+firebase_admin
+streamlit_option_menu
